@@ -1,0 +1,12 @@
+{
+    "Title": "HEN",
+    "Version": "1.8",
+    "Updated": "2018-11-01T00:00:0.0000Z",
+    "Device": "PlayStation 4",
+    "Firmware": "5.05",
+    "Description": {
+        "default": "Homebrew Enabler."
+    },
+    "URL": "http://zecoxao.github.io/",
+    "Offline": true
+}
